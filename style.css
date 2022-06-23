@@ -2,4 +2,10 @@ body {
   margin: 20% auto;
   width: 50%;
   height: 75%;
+  text-align: center;
+  background-color: pink;
+}
+
+h1 {
+  color: black;
 }
